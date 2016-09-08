@@ -1,3 +1,9 @@
+#ide
+*.iml
+target
+src/test/java/test.java
+
+
 *.class
 
 # Mobile Tools for Java (J2ME)
